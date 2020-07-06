@@ -1,0 +1,10 @@
+C:\taller1_2020(C#)\tpn7-NTVGcele\TareaDeCalculadora\bin\Debug\TareaDeCalculadora.exe.config
+C:\taller1_2020(C#)\tpn7-NTVGcele\TareaDeCalculadora\bin\Debug\TareaDeCalculadora.exe
+C:\taller1_2020(C#)\tpn7-NTVGcele\TareaDeCalculadora\bin\Debug\TareaDeCalculadora.pdb
+C:\taller1_2020(C#)\tpn7-NTVGcele\TareaDeCalculadora\obj\Debug\TareaDeCalculadora.csprojAssemblyReference.cache
+C:\taller1_2020(C#)\tpn7-NTVGcele\TareaDeCalculadora\obj\Debug\TareaDeCalculadora.Form1.resources
+C:\taller1_2020(C#)\tpn7-NTVGcele\TareaDeCalculadora\obj\Debug\TareaDeCalculadora.Properties.Resources.resources
+C:\taller1_2020(C#)\tpn7-NTVGcele\TareaDeCalculadora\obj\Debug\TareaDeCalculadora.csproj.GenerateResource.cache
+C:\taller1_2020(C#)\tpn7-NTVGcele\TareaDeCalculadora\obj\Debug\TareaDeCalculadora.csproj.CoreCompileInputs.cache
+C:\taller1_2020(C#)\tpn7-NTVGcele\TareaDeCalculadora\obj\Debug\TareaDeCalculadora.exe
+C:\taller1_2020(C#)\tpn7-NTVGcele\TareaDeCalculadora\obj\Debug\TareaDeCalculadora.pdb
